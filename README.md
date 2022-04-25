@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roberto-silva
 - 👀 I’m interested in web and mobile development
-- 🌱 I am currently learning React Native and Flutter
+- 🌱 I am currently learning microservices whit Spring Cloud
 
 <!---
 roberto-silva/roberto-silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
